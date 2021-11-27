@@ -1,0 +1,11 @@
+food:
+  interval:
+    archive: 5
+    purge: 10
+  tenants:
+    TENANT1:
+      accountId: 6e52aa60-4ea2-11ec-81d3-0242ac130003
+      tenantId: TENANT1
+    TENANT2:
+      accountId: 7e54508a-4ea2-11ec-81d3-0242ac130003
+      tenantId: TENANT2
